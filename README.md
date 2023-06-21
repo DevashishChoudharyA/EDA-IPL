@@ -1,6 +1,6 @@
 # EDA-IPL
 Title: Exploratory Data Analysis on Indian Premier League Dataset
-
+![Project template](EmbeddedImage.jpg)
 Introduction:
 The Indian Premier League (IPL) is a professional Twenty20 cricket league in India. It is one of the most popular sporting events globally and has gained immense popularity over the years. This project aims to perform an exploratory data analysis (EDA) on a dataset related to the IPL to gain insights and understand the various aspects of the league.
 
